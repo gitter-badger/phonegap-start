@@ -3,10 +3,10 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.visionplatform.tatasydney"
         version   = "2.0.0">
-    <name>타타시드니</name>
+    <name>VSPlatForm</name>
 
     <description>
-        Tatasydney sample application that responds to the deviceready event.
+        Sample application.
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
