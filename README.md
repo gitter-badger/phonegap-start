@@ -1,5 +1,7 @@
 # Hello World PhoneGap Application
 
+[![Join the chat at https://gitter.im/KimTaehun/phonegap-start](https://badges.gitter.im/KimTaehun/phonegap-start.svg)](https://gitter.im/KimTaehun/phonegap-start?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > A Hello World application built with PhoneGap
 
 ## PhoneGap Build
